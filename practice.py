@@ -56,8 +56,6 @@ print(i/j)
 k=input()
 print(k)
 
-'''
-
 
 Name=input()
 print(Name)
@@ -67,4 +65,34 @@ a=input()
 b=input()
 print(a)
 print(b)
+
+
+age=int(input("Enter your age : "))
+salary=50000
+
+if age > 18:
+    if salary == 20000:
+         print("Your age is 18")
+    else:
+         print("Your not elgible beacause your age is below 18")
+else:
+     print("Your age is greater than 18")
+
+
+
+
+
+
+'''
+
+a=1
+while a<10:
+    print(a)
+    if a==5:
+        break
+    a=a+1
+        
+
+
+
 
