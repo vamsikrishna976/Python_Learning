@@ -1,5 +1,6 @@
 
-# List in Python
+                                                         # List in Python
+
 # A list is a collection of items that can be of different types, including numbers, strings, and other lists.
 # Lists are mutable, meaning you can change their content without changing their identity.
 # Lists are defined using square brackets [] and can contain any number of items.
